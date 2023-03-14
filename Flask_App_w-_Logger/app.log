@@ -1,0 +1,27 @@
+2023-03-13 22:30:35,017 WARNING  * Debugger is active!
+2023-03-13 22:30:35,020 INFO  * Debugger PIN: 460-800-855
+2023-03-13 22:31:07,145 ERROR pessoa não encontrada com o id 2
+2023-03-13 22:31:07,148 INFO 127.0.0.1 - - [13/Mar/2023 22:31:07] "GET /pessoas/2 HTTP/1.1" 200 -
+2023-03-13 22:31:10,272 INFO 127.0.0.1 - - [13/Mar/2023 22:31:10] "[33mGET / HTTP/1.1[0m" 404 -
+2023-03-13 22:31:24,574 INFO Pegue todas as pessoas
+2023-03-13 22:31:24,580 INFO 127.0.0.1 - - [13/Mar/2023 22:31:24] "GET /pessoas HTTP/1.1" 200 -
+2023-03-13 22:32:25,108 INFO pessoa com o id 1
+2023-03-13 22:32:25,112 INFO 127.0.0.1 - - [13/Mar/2023 22:32:25] "GET /pessoas/1 HTTP/1.1" 200 -
+2023-03-13 22:37:11,657 INFO  * Detected change in '/mnt/c/Users/marqu/OneDrive/Área de Trabalho/flask_app/app.py', reloading
+2023-03-13 22:37:12,577 WARNING  * Debugger is active!
+2023-03-13 22:37:12,579 INFO  * Debugger PIN: 460-800-855
+2023-03-13 22:37:17,607 INFO Pegue todas as pessoas
+2023-03-13 22:37:17,611 INFO 127.0.0.1 - - [13/Mar/2023 22:37:17] "GET /pessoas HTTP/1.1" 200 -
+2023-03-13 22:37:24,455 INFO 127.0.0.1 - - [13/Mar/2023 22:37:24] "[33mGET /pessoa HTTP/1.1[0m" 404 -
+2023-03-13 22:37:29,806 INFO 127.0.0.1 - - [13/Mar/2023 22:37:29] "GET /pessoas/1 HTTP/1.1" 200 -
+2023-03-13 22:37:36,798 INFO 127.0.0.1 - - [13/Mar/2023 22:37:36] "GET /pessoas/2 HTTP/1.1" 200 -
+2023-03-13 22:37:42,462 INFO  * Detected change in '/mnt/c/Users/marqu/OneDrive/Área de Trabalho/flask_app/app.py', reloading
+2023-03-13 22:37:43,228 WARNING  * Debugger is active!
+2023-03-13 22:37:43,230 INFO  * Debugger PIN: 460-800-855
+2023-03-13 22:37:47,464 INFO Pegue todas as pessoas
+2023-03-13 22:37:47,467 INFO 127.0.0.1 - - [13/Mar/2023 22:37:47] "GET /pessoas HTTP/1.1" 200 -
+2023-03-13 22:37:54,085 INFO 127.0.0.1 - - [13/Mar/2023 22:37:54] "[33mGET /pessoa HTTP/1.1[0m" 404 -
+2023-03-13 22:37:59,843 INFO pessoa com o id 1
+2023-03-13 22:37:59,847 INFO 127.0.0.1 - - [13/Mar/2023 22:37:59] "GET /pessoas/1 HTTP/1.1" 200 -
+2023-03-13 22:38:06,231 ERROR pessoa não encontrada com o id 2
+2023-03-13 22:38:06,236 INFO 127.0.0.1 - - [13/Mar/2023 22:38:06] "GET /pessoas/2 HTTP/1.1" 200 -
